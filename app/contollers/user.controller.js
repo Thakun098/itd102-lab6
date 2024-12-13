@@ -1,5 +1,5 @@
 exports.home = (req, res) =>{
-    res.send("Home Controller");
+    res.send("Home Controller"); //respond ข้อมูลออกมาให้เห็นใน web browser
 };
 
 exports.about = (req, res) =>{
